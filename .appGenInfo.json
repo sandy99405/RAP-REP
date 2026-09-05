@@ -1,0 +1,32 @@
+{
+  "generationParameters": {
+    "generationDate": "Sat Sep 05 2026 14:15:19 GMT+0530 (India Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "SAP System (ABAP Cloud)",
+    "metadataFilename": "",
+    "serviceUrl": "https://e9233ee0-105b-4c71-893f-d4b6f0ddd36a.abap.us10.hana.ondemand.com/sap/opu/odata/sap/ZUI_TECH_INCH_V2",
+    "appName": "cicd",
+    "appTitle": "App Title",
+    "appDescription": "An SAP RAP application.",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.148.8",
+    "enableEslint": true,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.29.0",
+    "template": "List Report Page V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "ZC_TRAVEL_ROOT_INCH"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "to_Booking"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
